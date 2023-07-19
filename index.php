@@ -15,7 +15,7 @@
     <section id="WrapperBG2">
         <section id="WrapperBG">
         <article class="HeaderBox_1">
-                <h3>Aonde transformamos necessidade em inovação</h3>
+                <h3>Onde transformamos necessidade em inovação</h3>
             </article>
         </section>
     </section>
@@ -23,9 +23,28 @@
     <section class="WrapperInside">
         <div class="LogoImg"></div>
         <section class="ArticleWrapper">
+            <article class="ArticleSection">
+                <header class="HeaderBox"><h3>Um pouco sobre nós!</h3></header>
+                <article class="TxtContainer">
+                    <h2>Uma empresa focada em desenvolvimento de softwares</h2>
+                    <p>
+                        Aqui na HelpFox temos como principal objetivo tornar necessidades de terceiros
+                        em softwares praticos, simples, custumizados e otimizados. 
+                        <br>Miramos em um problema e garantimos sua resolução.
+                    </p>
+                </article>
+                <a href=""> 
+                <div class="btnfield">
+                    <div class="btnsec">
+                        <p>NOS CONHEÇA!</p>
+                    </div>
+                </div>
+                </a>
 
-            <article class="ArticleBox_2">
-                <h3>Como funciona?</h3>
+            </article>
+            <article class="ArticleSection">
+                <header class="HeaderBox"><h3>Novidades</h3></header>
+                
             </article>
         </section>
         <footer class="footer1"><p>©2023 HelpFox Ltd. Criado por Henzo Possebon Ayres.</p></footer>
